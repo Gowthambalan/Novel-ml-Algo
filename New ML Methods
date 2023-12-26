@@ -1,0 +1,15 @@
+New ML methods:
+
+ Several of those approaches have shown to be particularly useful in the analysis of blockchain databases:
+
+        Semi-supervised learning: 
+                      A branch of ML that has gotten a lot of press in recent times.
+
+        Semi-supervised learning is a type of supervised learning that uses a combination of labeled and unlabeled data for training. In many circumstances, semi-supervised learning combines a small quantity of labeled data from supervised learning with a greater amount of unlabeled data from unsupervised learning to provide higher accuracy than wholly supervised models.
+        Transfer learning – a type of representation learning that is based on the concept of mastering a new task by repurposing information from a prior one. Traditional learning is isolated, taking place solely based on specific tasks, datasets, and the training of discrete isolated models on them. No knowledge can be transferred from one model to another. 
+        Transfer learning allows you to use previously trained models’ information to train newer models and even solve challenges like having less data for the newer assignment.
+
+Transfer learning 
+        A type of representation learning that is based on the concept of mastering a new task by repurposing information from a prior one. 
+        Traditional learning is isolated, taking place solely based on specific tasks, datasets, and the training of discrete isolated models on them.
+        No knowledge can be transferred from one model to another.
