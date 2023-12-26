@@ -4,6 +4,9 @@ Supervised Learning------------
                               |
 Unsupervised Learning---------
 
-<p>
-<img src="https://cdn-images-1.medium.com/max/1600/1*Iz7bCLrPTImnBDOOEyE3LA.png" height=340/>
-</p> 
+Supervised Learning: As the name implies, supervised learning involves the presence of a supervisor who also serves as an instructor. 
+Supervised learning is when we educate or train a computer using well-labeled data, which implies that part of the data has already been tagged with the correct answer.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Unsupervised Learning: Unsupervised learning is the process of teaching a computer to act on information that is neither classed nor labeled. 
+The machine’s objective here is to sort unsorted data into groups based on patterns and similarities without any prior data training.
